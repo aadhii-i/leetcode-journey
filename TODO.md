@@ -1,2 +1,3 @@
 - extract constant @ 2026-03-07T10:11:48+05:30
 - fix edge case in parser @ 2026-03-16T07:49:13+05:30
+- tweak config @ 2026-04-11T14:54:01+05:30
