@@ -2,3 +2,4 @@
 - fix edge case in parser @ 2026-03-16T07:49:13+05:30
 - tweak config @ 2026-04-11T14:54:01+05:30
 - small refactor @ 2026-05-05T16:40:58+05:30
+- extract constant @ 2026-05-25T22:45:34+05:30
