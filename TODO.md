@@ -4,3 +4,4 @@
 - small refactor @ 2026-05-05T16:40:58+05:30
 - extract constant @ 2026-05-25T22:45:34+05:30
 - fix typo @ 2026-06-22T08:03:40+05:30
+- update README @ 2026-06-28T14:30:37+05:30
