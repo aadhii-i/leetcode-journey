@@ -1,3 +1,4 @@
 - minor style fixes @ 2026-04-21T12:27:23+05:30
 - sync with upstream @ 2026-07-19T08:30:45+05:30
 - refactor helper functions @ 2026-08-26T10:51:14+05:30
+- bump version @ 2026-09-02T09:13:26+05:30
