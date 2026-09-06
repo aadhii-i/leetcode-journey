@@ -3,3 +3,4 @@
 - extract constant @ 2026-06-12T08:33:37+05:30
 - minor style fixes @ 2026-10-27T22:00:57+05:30
 - handle null input @ 2026-11-09T17:28:42+05:30
+- handle null input @ 2026-09-06T14:21:37+05:30
