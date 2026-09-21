@@ -2,3 +2,4 @@
 - sync with upstream @ 2026-07-19T08:30:45+05:30
 - refactor helper functions @ 2026-08-26T10:51:14+05:30
 - bump version @ 2026-09-02T09:13:26+05:30
+- improve error handling @ 2026-09-21T17:02:25+05:30
